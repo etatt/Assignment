@@ -1,0 +1,57 @@
+@charset "utf-8";
+header {
+	background-color: #387ED1;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: x-large;
+	padding: 10px
+}
+
+p {
+	padding-top: 0px;
+	padding-right: 350px;
+	padding-bottom: 10px;
+}
+li { 
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333333
+}
+ul { 
+display: inline;
+}
+ul
+{ 
+float:left;
+}
+ul a {
+display: block;
+color: white;
+text-align: centre;
+text-decoration: none;
+}
+ul a:hover {
+background-color: #111111	
+}
+.active {
+	background-color: #4CAF50;
+}
+
+table {
+	border-collapse: collapse;
+}
+table, th, td {
+	border: 1px solid black;
+}
+img {
+	
+	padding-right: 0px;
+	padding-left: 60px;
+}
+#image1 {
+	float: right;
+}
+#image2 {
+	float: right;
+}
